@@ -24,3 +24,9 @@ The `ledgerleaf.svg` wallpaper is original. Ledgerleaf OS is an independent Ubun
 
 See [FEATURES.md](FEATURES.md) for three local tools included for small business operations.
 
+
+The installer also includes three purpose-specific applications: **KeePassXC, VSCodium, GIMP**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **KeePassXC, VSCodium, GIMP**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **KeePassXC, VSCodium, GIMP**. See [FEATURES.md](FEATURES.md).
